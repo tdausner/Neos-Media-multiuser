@@ -15,9 +15,8 @@ achievable utilizing the Neos.Media multiuser mods.
 All this is possible utilizing NEOS' powerful privilege system.
 
 Asset collection names can hold any characters (up to 255). With an agreement of
-specific asset collection titles (see below **Working with specific asset collection titles**)
-in interaction with privilege method `titleStartsWith` for asset collection titles
-multi-user and multi-site support in the Neos Media module is achieved.
+specific asset collection titles in interaction with privilege method `titleStartsWith`
+for asset collection titles multi-user and multi-site support in the Neos Media module is achieved.
 
 ### Configuration example
 
