@@ -1,5 +1,5 @@
 {
-    "name": tdausner/neos-media-multiuser",
+    "name": "tdausner/neos-media-multiuser",
     "description": "Add multi-user / multi-site support to Neos Media module",
     "require": {
         "php": ">=7.4",
