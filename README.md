@@ -4,20 +4,13 @@ Currently, the Neos Media module offers no easily feasible path for multi-user o
 support.
 
 - **multi-user support**: even on a single site there can be a demand to have users of different
-departments (different roles) to not interfere with assets of other departments. 
-That's when you'll need multi-user support for assets.
+departments may not interfer with assets of departments. That's when you'll need multi-user 
+support for assets.
 - **multi-site support**: to avoid users for different sites access assets of not-their-site
 it is essential to have multi-site support for assets. Again, this is achievable utilizing 
 the Neos.Media.Multiuser mods.
 
-All this is possible utilizing NEOS' powerful privilege system together with 
-
-## Installation
-
-```shell
-composer require tdausner/neos-media-multiuser
-```
-## Details
+All this is possible utilizing NEOS' powerful privilege system.
 
 Asset collection names can hold any characters (up to 255). With an agreement of
 specific asset collection titles (see below **Working with specific asset collection titles**)
