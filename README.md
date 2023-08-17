@@ -101,7 +101,9 @@ roles:
 
 ## Installation
 ```shell
-composer require tdausner/neos-media-multiuser
+git clone git@github.com:tdausner/Neos.Media-multiuser.git
+cp -R Neos.Media-multiuser/Packages/* Packages/
+rm -rf Neos.Media-multiuser/
 ```
 ## Implementation
 
