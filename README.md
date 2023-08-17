@@ -42,7 +42,7 @@ The separation character can be configured in the Neos Media Browser module file
 (see below). If configured to anything else than empty (`''`) the asset collection title 
 hierarchy is reflected in the asset collection's display:
 
-![img.png](img.png)
+![image](https://github.com/tdausner/Neos.Media-multiuser/assets/19776511/e4953b01-06c6-4315-a806-aac303817f52)
 
 In a file `Policy.yaml` (in some `Configuration` folder) you may define corresponding roles:
 ```yaml
