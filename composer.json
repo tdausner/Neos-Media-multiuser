@@ -1,0 +1,6 @@
+{
+    "name": "tdausner/neos-media-multiuser",
+    "type": "project",
+    "description": "Multiuser mods for Neos >= 7.3 Media module",
+    "license": "GPL-3.0-or-later"
+}
